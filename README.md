@@ -3,7 +3,7 @@
 
 
 ## About Me
-- I'm 25 yeaors old and I'm from Porto, Portugal
+- I'm 25 years old and I'm from Porto, Portugal
 - 🌱 I’m currently learning @ Ironhack - Data Analyst & BI Course
 - 📫 How to reach me: [Email](jpbb1337@gmail.com)
 
