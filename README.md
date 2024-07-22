@@ -33,7 +33,6 @@
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jpbb15&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jpbb15&layout=compact&theme=radical)
 
 
 ## Contact
