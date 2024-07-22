@@ -5,19 +5,14 @@
 - I'm 25 years old and I'm from Porto, Portugal
 - 🌱 I’m currently learning at Ironhack - Data Analyst & BI Course
 - 💼 Looking for opportunities in Data Analysis and Business Intelligence
-- 📫 How to reach me: [Email](mailto:jpbb1337@gmail.com)
-
-
-
-## Social Media
-- [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-pedro-barbosa-brand%C3%A3o-663a172b6/)
-
 
 
 
 
 ## Skills
 - **Programming Languages**: Python, SQL
+- **Tools & Technologies**: Jupyter Notebooks
+- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Plotly
 
 
 
@@ -35,6 +30,10 @@
 - **Description**: This project aims to tackle the critical issue of food waste and emissions throughout the food supply chain.
 - **Technologies Used**: Python
 
+
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jpbb15&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jpbb15&layout=compact&theme=radical)
 
 
 ## Contact
