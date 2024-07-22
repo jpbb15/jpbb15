@@ -18,8 +18,6 @@
 
 ## Skills
 - **Programming Languages**: Python, SQL
-- **Tools**: Tableau, Power BI, Excel, Jupyter Notebooks
-- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn
 
 
 
