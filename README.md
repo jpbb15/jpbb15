@@ -31,6 +31,10 @@
 - **Description**: This project aims to tackle the critical issue of food waste and emissions throughout the food supply chain.
 - **Technologies Used**: Python
 
+### [🏦 Project: Vanguard Investment Project](https://github.com/jpbb15/Vanguard-EDA)
+- **Description**: This project aims to analyze client behavior and key performance metrics for Vanguard's online investment process.
+- **Technologies Used**: Python, Tableau
+
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jpbb15&show_icons=true&theme=radical)
