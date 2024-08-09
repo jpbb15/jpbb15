@@ -42,4 +42,4 @@
 
 ## 📫 Contact
 - 📧 [Email](mailto:jpbb1337@gmail.com)
-- 🌐 [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-pedro-barbosa-brand%C3%A3o-663a172b6/)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/josepedrobrandao/)
