@@ -3,8 +3,7 @@
 
 ## 😎 About Me
 - 🏡 I'm 25 years old and I'm from Porto, Portugal
-- 🌱 Currently learning at Ironhack - Data Analyst & BI Course
-- 💼 Looking for opportunities in Data Analysis and Business Intelligence
+- 💼 Currently working at BNP Paribas Cardif as a Business Analyst
 - 📧 How to reach me: [Email](mailto:jpbb1337@gmail.com)
 
 
